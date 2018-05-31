@@ -1,0 +1,23 @@
+{
+  "name": "mattermost-birthday-bot",
+  "version": "0.0.1-alpha",
+  "description": "MatterMost Birthday reminder bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mattermost",
+    "bot",
+    "birthday",
+    "nodejs",
+    "node",
+    "javascript",
+    "matter",
+    "most",
+    "reminder",
+    "notify"
+  ],
+  "author": "Ankur Loriya <ankur.loriya@gmail.com>",
+  "license": "MIT"
+}
