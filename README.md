@@ -1,1 +1,1 @@
-# mattermost-birthday-bot
+# MatterMost Birthday Reminder Bot
