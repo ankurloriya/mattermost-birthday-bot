@@ -1,0 +1,14 @@
+{
+	"environment": "development",
+	"http": {
+		"port": 80
+	},
+	"https": {
+		"port": 443,
+		"ssl": {
+			"key": "",
+			"certificate": "",
+			"intermediate-ca": ""
+		}
+	}
+}
